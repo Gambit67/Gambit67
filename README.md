@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GAMBIT
 - 👀 I’m interested in Blockchain/Dapp development
-- 🌱 I’m currently learning Javascript() and Solidity
+- 🌱 I’m currently learning Javascript(Already done with html and Css) and Solidity
 - 💞️ I’m looking to collaborate on Telegram 
 - 📫 How to reach me: Telegram @Gambit3rd
 - 😄 Pronouns: He
